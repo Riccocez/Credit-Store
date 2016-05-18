@@ -132,7 +132,7 @@ class Case():
             self.items_list.append(item_price)
         return
             
-    def find_items(self)
+    def find_items(self):
 
         l_size = len(self.items_list)
         index = 0

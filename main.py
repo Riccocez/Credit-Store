@@ -36,7 +36,7 @@ for n_case in range(0,N):
 
     print "Position of items for case ", n_case, " :", items[0]," , ", items[1]
 
-    L cases[str(n_case)]= items
+    #L cases[str(n_case)]= items
 
 print L_cases    
 
